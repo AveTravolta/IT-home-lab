@@ -1,2 +1,9 @@
 # it-home-lab
-IT home lab for documenting Windows Server and Active Directory practice, including VM setup, system administration tasks, and networking fundamentals.
+
+This project simulates a small business IT environment to practice Help Desk and System Administration skills.
+
+## Environment
+- Windows Server (Domain Controller)
+- Windows 11 Client Machine
+- Active Directory
+- DNS
