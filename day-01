@@ -1,0 +1,12 @@
+# Day 1 – Environment Setup
+
+## Completed:
+- Installed VirtualBox
+- Downloaded Windows Server ISO
+- Created DC01 VM
+- Began Windows Server installation
+
+## Notes:
+Lab environment created for Active Directory practice.
+
+![DC01 VM Screenshot](DC01.jpg)
