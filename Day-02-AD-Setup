@@ -1,0 +1,8 @@
+## Completed:
+- Promoted server to Domain Controller
+- Created domain: sandoval.local
+- Installed AD DS + DNS
+
+## Verification:
+- Domain successfully created and verified via PowerShell
+
