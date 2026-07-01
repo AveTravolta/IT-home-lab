@@ -1,0 +1,35 @@
+# Day 3 – Active Directory Users + Groups (Help Desk Core)
+
+## Completed:
+- Created Organizational Unit (OU): Golf Employees  
+- Created Active Directory users:
+  - Lennet Naranjo
+  - Robert Naranjo
+  - Pickles Pugsley  
+  - Michael Sandoval
+
+- Created groups:
+  - Management
+  - Pro Shop Staff 
+  - Inventory Staff  
+
+- Assigned users to groups
+
+## Break/Fix Tickets:
+- Reset user password  
+- Fixed wrong group membership  
+
+### Reset user password screenshots
+https://github.com/AveTravolta/it-home-lab/blob/main/RP1.png
+https://github.com/AveTravolta/it-home-lab/blob/main/RP2.png
+https://github.com/AveTravolta/it-home-lab/blob/main/RP3.png
+
+### Fixed wrong group membership screenshots
+https://github.com/AveTravolta/it-home-lab/blob/main/CG1.png
+https://github.com/AveTravolta/it-home-lab/blob/main/CG2.png
+https://github.com/AveTravolta/it-home-lab/blob/main/CG3.png
+https://github.com/AveTravolta/it-home-lab/blob/main/CG4.png
+
+
+## Notes:
+Practiced Active Directory user and group management inside sandoval.local domain.
