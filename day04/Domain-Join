@@ -1,0 +1,41 @@
+# Day 4 – Windows 11 Domain Join (Active Directory Client Setup)
+
+## Completed:
+
+* Created Windows 11 virtual machine: CLIENT01
+* Configured VirtualBox Host-Only networking between DC01 and CLIENT01
+* Verified DNS resolution to domain controller (DC01)
+* Confirmed connectivity to domain (sandoval.local) via ping and nslookup
+* Joined CLIENT01 to Active Directory domain: sandoval.local
+* Logged in using domain administrator credentials
+* Verified domain authentication works from Windows 11 client
+
+## Domain Join Steps:
+
+* Renamed computer to CLIENT01
+* Joined domain: sandoval.local
+* Entered domain admin credentials when prompted
+* Restarted system to apply domain membership
+
+## Verification:
+
+* Confirmed CLIENT01 is part of sandoval.local domain
+* Logged in successfully using:
+
+  * sandoval\Michael
+* Tested domain resolution and authentication from client machine
+
+## Break/Fix Issues:
+
+* Fixed VirtualBox Host-Only adapter not binding correctly
+* Resolved “network cable unplugged” issue on CLIENT01
+* Corrected DNS configuration pointing CLIENT01 to DC01
+* Fixed domain join issues caused by incorrect network attachment
+* Resolved login issues caused by incorrect username formatting
+
+### Domain Join Process / Login Verification Screenshots
+
+
+## Notes:
+
+Practiced joining a Windows 11 client to an Active Directory domain and validating authentication against DC01 in the sandoval.local environment. Learned the importance of DNS configuration, correct VirtualBox Host-Only networking, and proper domain user logon formats.
